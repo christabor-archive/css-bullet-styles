@@ -1,3 +1,5 @@
+[![MIT Badge](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/christabor/css-bullet-styles/master/LICENSE)
+
 css-bullet-styles
 =================
 
